@@ -2,6 +2,8 @@
 
 Realtime chat built with Node.js, Socket.io, HTML and CSS.
 
+![Chat demo](realtime-chat.gif)
+
 To run locally, install dependencies:
 
 ```
