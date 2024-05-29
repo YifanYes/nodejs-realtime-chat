@@ -8,6 +8,8 @@ To run locally, install dependencies:
 npm install
 ```
 
+Configure your database and add environment variables to `.env` file. For this project, I use Turso for a SQLite instance.
+
 Run the server:
 
 ```
